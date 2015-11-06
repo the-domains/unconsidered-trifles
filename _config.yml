@@ -1,0 +1,23 @@
+name: Unconsidered Trifles
+favicon: null
+layout_spectrum: 0.5493932040408254
+typography_spectrum: 0.19484516535885632
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.03672413108870387
+  lightness: 0.9045274970121682
+  saturation: 0.3805736422073096
+  rhythmicContrast: 0.8691374890040606
+purpose: []
